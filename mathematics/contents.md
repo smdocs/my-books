@@ -1,3 +1,2 @@
 # Mathematics
-
-1. [Foundations of Mathematics]()
+[Mathematical Foundations of Computing]()
